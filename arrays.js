@@ -36,5 +36,17 @@ var evenNumbers = new Array();
 
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
+var superheroines = ["catwoman", "she-hulk", "mystique"];
+
+superheroines.push("wonder woman")
+
+var cities = ["New York", "San Francisco"]
+
+cities.unshift("Phildelphia")
+
+["Philadelphia", ...cities]
+
+var cities = [..."New York"]
+
 
 
