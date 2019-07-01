@@ -32,4 +32,9 @@ var weirdGreeting = ["he", 110, "w", 0, "r", 1, "d"];
 
 var empty = [];
 
-console.log(myArray)
+var evenNumbers = new Array();
+
+var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
+
+
+
